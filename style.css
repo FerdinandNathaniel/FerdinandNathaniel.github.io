@@ -1,0 +1,11 @@
+.jumbotron {
+    height: 100vh;
+    margin: 0;
+}
+
+.footer-page{
+    position: relative;
+    bottom: 0;
+    background-color: brown;
+}
+
